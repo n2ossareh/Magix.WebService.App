@@ -1,0 +1,4 @@
+﻿namespace Magix.WebService.Configurations
+{
+    
+}
